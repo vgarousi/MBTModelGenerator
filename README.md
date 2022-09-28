@@ -7,7 +7,7 @@ The first version of the tool was released in May 2022.
 
 # Development team 
 * (Team lead): [Dr. Vahid Garousi](https://www.vgarousi.com), Professor of Software Engineering and Senior Consultant, UK
-* [Sasidhar Matta](https://www.google.com/search?q=Sasidhar+Matta), at the time of this project (2022), Software Engineer, Global Payments Integrated Corporation
+* [Sasidhar Matta](https://www.google.com/search?q=Sasidhar+Matta), Sasidhar worked on this project as part of his BSc final-year project in 2021-2022.
 * [Alper Buğra Keleş](https://www.linkedin.com/in/alperbugrakeles/), Testinium A.Ş., Turkey
 * [Yunus Balaman](https://www.linkedin.com/in/yunus-balaman-100235159/), Testinium A.Ş., Turkey
 
