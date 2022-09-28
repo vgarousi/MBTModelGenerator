@@ -3,7 +3,7 @@ MBTModelGenerator is a software tool for automated generation of Model-based Tes
 
 The current implementation of MBTModelGenerator generates MBT models to be imported and executed in the [GraphWalker](http://graphwalker.github.io) open-source MBT tool.
 
-The first version of the tool was released in May 2022. We may add more features to the tool in the future. 
+The first version of the tool was released in May 2022.
 
 # Development team 
 * (Team lead): [Dr. Vahid Garousi](https://www.vgarousi.com), Professor of Software Engineering and Senior Consultant, UK
@@ -12,14 +12,13 @@ The first version of the tool was released in May 2022. We may add more features
 * [Yunus Balaman](https://www.linkedin.com/in/yunus-balaman-100235159/), Testinium A.Ş., Turkey
 
 # Demo videos
-## A demo video of the tool, showing coverage values live (September 2020)
-In this video, we demonstrate a live execution of the MBTCover tool, while the MBT test execution is running using the GraphWalker MBT tool. The System Under Test (SUT) is a large test-automation management tool named [Testinium](http://testinium.com).
+In this video, we demonstrate execution of MBTModelGenerator, to automatically generate Model-based Test (MBT) models for the [PetClinic web application](https://github.com/spring-projects/spring-petclinic) using its clickstream data.
 
 <a href="https://www.youtube.com/watch?v=vEcFvZEkyb0" target="_blank"><img src="http://img.youtube.com/vi/vEcFvZEkyb0/0.jpg" 
  width="240" height="180" border="10" /></a>
 
 # Design document
-Design document of the first version of the tool (which was released in May 2022) can be found as a PDF file [here](https://github.com/vgarousi/MBTModelGenerator/blob/main/Design%20document/MBTModelGenerator-Design%20document-Sept%2028.pdf). 
+Design document of the first version of the tool can be found as a PDF file [here](https://github.com/vgarousi/MBTModelGenerator/blob/main/Design%20document/MBTModelGenerator-Design%20document-Sept%2028.pdf). 
 
 # Interested in collaborating with us?
 If you are interested in collaborating with us in this project, feel free to email us: vgarousi -at- gmail -.- com
